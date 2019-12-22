@@ -13,7 +13,7 @@ udpspeeder、udp2raw软件的作者为@wangyu-，github：https://github.com/wan
 
 #### 使用一键搭建脚本 ####
 
-> bash <(curl -L -s https://raw.githubusercontent.com/yobabyshark/onekeyopenvpn/master/onekeyopenvpn.sh)
+> bash <(curl -L -s https://raw.githubusercontent.com/inhowe/onekeyopenvpn/master/onekeyopenvpn.sh)
 
 #### 检查一下是否安装正确，执行下面命令
 
@@ -25,7 +25,7 @@ udpspeeder、udp2raw软件的作者为@wangyu-，github：https://github.com/wan
 
 #### openvpn客户端安装
 
-网盘下载：https://pan.baidu.com/s/1-NS_tX-OoVmTOa8A3-TWUw  密码: dwv8
+~~网盘下载：https://pan.baidu.com/s/1-NS_tX-OoVmTOa8A3-TWUw  密码: dwv8~~ 已经传在“客户端”文件夹下
 
 这个版本openvpn将udpspeeder和udp2raw通过rar打包了自解压安装，所以你把软件安装到D:\Program Files\OpenVPN或C:\Program Files\OpenVPN目录下，udpspeeder和udp2raw的执行文件会自动解压到安装目录下的config文件夹。
 
